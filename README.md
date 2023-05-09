@@ -2,6 +2,7 @@
 
 > A pretty and customizable multi page web app built on Flask to deploy your DL model with ease. 
 
+Pages:
 - Image Classifier (home page)
 - Color recognizer 
 
