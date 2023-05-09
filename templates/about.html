@@ -114,11 +114,11 @@
 		{% for i in range(colors_list|length) %}
             <div class="pair">
                 {% if code != 'hex': %}
-                    <!-- <div class="color-box" style="background-color: rgb{{colors_list[i]}};"></div> -->
+                    <div class="color-box" style="background-color: rgb{{colors_list[i]}};"></div>
                     <!-- <div class="color-box" style=" background-color: 'rgb(' + colors_list[i] + ')' "></div> -->
                     <div class="color-box-value"> {{i+1}}:  rgb{{colors_list[i]}}</div>
                 {% else: %}
-                    <!-- <div class="color-box" style="background-color: #{{ colors_list[i] }};"></div> -->
+                    <div class="color-box" style="background-color: #{{ colors_list[i] }};"></div>
                     <div class="color-box-value"> {{i+1}}:   #{{colors_list[i]}}</div>
                 {% endif %}
             </div>
