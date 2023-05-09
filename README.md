@@ -52,4 +52,4 @@ Place your trained `.h5` file saved by `model.save()` under models directory.
 
 See [Keras applications](https://keras.io/applications/) for more available models such as DenseNet, MobilNet, NASNet, etc.
 
-Check [this section](https://github.com/mtobeiyf/keras-flask-deploy-webapp/blob/master/app.py#L26) in app.py.
+Check [this section](https://github.com/RafaiTariq/Flask-Web-App/blob/100b92ca0e2b192c003a4320c2cf11ec54e6c097/app.py#L30) in app.py.
