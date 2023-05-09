@@ -1,8 +1,5 @@
 # Deploy Keras Model with Flask as Web App 
 
-[![](https://img.shields.io/badge/python-3.5%2B-green.svg)]()
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-
 > A pretty and customizable web app to deploy your DL model with ease
 
 
@@ -22,14 +19,14 @@ It's easy to install and run it on your computer.
 
 ```shell
 # 1. First, clone the repo
-$ git clone https://github.com/mtobeiyf/keras-flask-deploy-webapp.git
-$ cd keras-flask-deploy-webapp
+$ git clone https://github.com/RafaiTariq/Flask-Web-App.git
+$ cd Flask-Web-App
 
 # 2. Install Python packages
 $ pip install -r requirements.txt
 
 # 3. Run!
-$ python app.py
+$ python -m flask run
 ```
 
 Open http://localhost:5000 and have fun. :smiley:
@@ -50,8 +47,6 @@ It's also easy to customize and include your models in this app.
 ### Use your own model
 
 Place your trained `.h5` file saved by `model.save()` under models directory.
-
-Check the [commented code](https://github.com/mtobeiyf/keras-flask-deploy-webapp/blob/master/app.py#L37) in app.py.
 
 ### Use other pre-trained model
 
