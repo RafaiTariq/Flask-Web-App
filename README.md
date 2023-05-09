@@ -1,9 +1,12 @@
 # Deploy Keras Model with Flask as Web App 
 
-> A pretty and customizable web app to deploy your DL model with ease
+> A pretty and customizable multi page web app built on Flask to deploy your DL model with ease. 
+
+- Image Classifier (home page)
+- Color recognizer 
 
 
-## Getting started in 10 minutes
+## Getting started
 
 - Clone this repo 
 - Install requirements
