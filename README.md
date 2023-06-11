@@ -4,12 +4,6 @@
 
 
 
-## Pages
-- Image Classifier
-- Color recognizer 
-
-
-
 ## Getting started
 
 - Clone this repo 
@@ -38,9 +32,23 @@ $ python -m flask run
 
 Open http://localhost:5000 and have fun. :smiley:
 
+
+## Pages
+
+- Image Classifier
+
+
 <p align="center">
 <img src="https://github.com/RafaiTariq/Flask-Web-App/blob/main/Media/Image%20Classifier%20gif.gif" height="395px" width="800px" alt="">
-  <!-- <img src="https://user-images.githubusercontent.com/5097752/71064959-3c34be80-213e-11ea-8e13-91800ca2d345.gif" height="480px" alt=""> -->
+</p>
+
+
+
+- Color recognizer 
+
+
+<p align="center">
+<img src="https://github.com/RafaiTariq/Flask-Web-App/blob/main/Media/Color%20Recognizer%20gif.gif" height="395px" width="800px" alt="">
 </p>
 
 ------------------
