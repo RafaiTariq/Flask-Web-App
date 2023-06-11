@@ -48,7 +48,7 @@ Open http://localhost:5000 and have fun. :smiley:
 
 
 <p align="center">
-<img src="https://github.com/RafaiTariq/Flask-Web-App/blob/main/Media/Color%20Recognizer%20gif.gif" height="395px" width="800px" alt="">
+<img src="https://github.com/RafaiTariq/Flask-Web-App/blob/main/Media/Color%20Recognizer%20Gif.gif" height="395px" width="800px" alt="">
 </p>
 
 ------------------
